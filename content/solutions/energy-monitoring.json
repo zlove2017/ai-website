@@ -1,0 +1,38 @@
+{
+  "slug": "energy-monitoring",
+  "title": "智慧能源监控方案",
+  "subtitle": "AI驱动的能源精细化管理",
+  "coverImage": "/images/solutions/energy-monitoring.jpg",
+  "icon": "energy",
+  "summary": "基于AI和IoT技术，构建企业级能源监控管理平台，实现对电力、水、气、热等能源的实时监测、智能分析和优化调控，助力企业实现节能降碳目标。",
+  "features": [
+    {
+      "title": "多能源统一监控",
+      "description": "电力、水、燃气、蒸汽等多种能源数据统一采集、集中展示，一张大屏掌握全局",
+      "icon": "dashboard"
+    },
+    {
+      "title": "AI能耗预测",
+      "description": "基于历史数据和生产计划，精准预测未来能源消耗，辅助采购和调度决策",
+      "icon": "chart"
+    },
+    {
+      "title": "异常能耗告警",
+      "description": "AI自动识别跑冒滴漏等异常能耗，实时告警并定位问题设备，避免能源浪费",
+      "icon": "alert"
+    },
+    {
+      "title": "碳排放管理",
+      "description": "自动核算碳排放数据，生成碳足迹报告，支持碳交易和ESG合规要求",
+      "icon": "leaf"
+    }
+  ],
+  "advantages": [
+    "综合能耗降低15-25%",
+    "能源成本节省数百万/年",
+    "碳排放量减少20%以上",
+    "能源利用率提升至92%+"
+  ],
+  "applicableScenes": ["工业园区", "大型工厂", "商业综合体", "数据中心", "新能源电站"],
+  "relatedCases": ["case-002"]
+}

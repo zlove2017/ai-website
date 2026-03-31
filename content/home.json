@@ -1,0 +1,32 @@
+{
+  "hero": [
+    {
+      "title": "AI驱动的工业智能化",
+      "subtitle": "让每一台设备都拥有智慧大脑",
+      "description": "融合AI与SCADA技术，为工业企业提供从数据采集到智能决策的全链路解决方案",
+      "image": "/images/hero/hero-1.jpg",
+      "cta": { "label": "了解解决方案", "href": "/solutions" }
+    },
+    {
+      "title": "预测性维护 降本增效",
+      "subtitle": "从被动维修到主动预防",
+      "description": "基于深度学习的设备故障预测，减少80%非计划停机，降低30%运维成本",
+      "image": "/images/hero/hero-2.jpg",
+      "cta": { "label": "查看成功案例", "href": "/cases" }
+    }
+  ],
+  "stats": [
+    { "value": "8+", "label": "年行业经验" },
+    { "value": "200+", "label": "成功项目" },
+    { "value": "50+", "label": "合作企业" },
+    { "value": "99.5%", "label": "系统稳定性" }
+  ],
+  "featuredSolutions": ["smart-factory", "energy-monitoring", "predictive-maintenance"],
+  "featuredCases": ["case-001", "case-002", "case-003"],
+  "ctaSection": {
+    "title": "准备好开启工业智能化了吗？",
+    "description": "我们的技术团队随时为您提供专业的解决方案咨询",
+    "buttonText": "立即咨询",
+    "buttonHref": "/contact"
+  }
+}

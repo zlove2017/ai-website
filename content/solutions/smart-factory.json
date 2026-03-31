@@ -1,0 +1,38 @@
+{
+  "slug": "smart-factory",
+  "title": "智慧工厂解决方案",
+  "subtitle": "AI驱动的全流程智能制造",
+  "coverImage": "/images/solutions/smart-factory.jpg",
+  "icon": "factory",
+  "summary": "通过AI+SCADA技术，实现生产全流程的智能监控、数据分析和自动优化。从原料入库到成品出库，每一个环节都在AI的智能管控下高效运转。",
+  "features": [
+    {
+      "title": "实时数据采集",
+      "description": "对接PLC、DCS、传感器等工业设备，实现毫秒级数据采集与传输，构建全厂统一数据底座",
+      "icon": "monitor"
+    },
+    {
+      "title": "AI视觉质检",
+      "description": "基于深度学习的产品质量检测，识别精度达99.5%，替代人工目检，7x24小时不间断工作",
+      "icon": "eye"
+    },
+    {
+      "title": "智能排产调度",
+      "description": "结合订单需求、设备状态、物料库存等多维数据，AI自动生成最优生产排程",
+      "icon": "calendar"
+    },
+    {
+      "title": "数字孪生",
+      "description": "构建工厂3D数字孪生模型，实时映射物理产线状态，支持仿真模拟与远程管控",
+      "icon": "cube"
+    }
+  ],
+  "advantages": [
+    "生产效率提升25%以上",
+    "产品不良率降低60%",
+    "人力成本节省40%",
+    "设备综合效率（OEE）提升至85%+"
+  ],
+  "applicableScenes": ["离散制造", "流程工业", "汽车制造", "电子组装", "食品加工"],
+  "relatedCases": ["case-001"]
+}

@@ -1,0 +1,26 @@
+{
+  "companyName": "智联科技",
+  "logo": "/images/logos/logo.png",
+  "slogan": "AI赋能工业智能化",
+  "nav": [
+    { "label": "首页", "href": "/" },
+    { "label": "关于我们", "href": "/about" },
+    { "label": "解决方案", "href": "/solutions" },
+    { "label": "案例展示", "href": "/cases" },
+    { "label": "联系我们", "href": "/contact" }
+  ],
+  "contact": {
+    "phone": "400-888-8888",
+    "email": "contact@zhilian-tech.com",
+    "address": "北京市海淀区中关村科技园区XX号"
+  },
+  "seo": {
+    "title": "智联科技 - AI赋能工业智能化",
+    "description": "智联科技专注于AI+SCADA工业智能化解决方案，为制造业、能源、化工等行业提供智慧工厂、能源监控、预测性维护等全方位智能化服务。",
+    "keywords": "AI,SCADA,工业自动化,智慧工厂,工业互联网,预测性维护,能源监控"
+  },
+  "icp": "京ICP备XXXXXXXX号",
+  "socialLinks": {
+    "wechat": "zhilian-tech"
+  }
+}

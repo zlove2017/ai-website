@@ -1,0 +1,19 @@
+{
+  "slug": "case-002",
+  "title": "某化工园区智慧能源管理项目",
+  "coverImage": "/images/cases/chemical-park.jpg",
+  "industry": "化工",
+  "client": "某国家级化工园区",
+  "year": "2024",
+  "solution": "energy-monitoring",
+  "background": "该化工园区入驻企业60余家，年能源消耗超10亿元。各企业能源管理分散，缺乏统一监控手段，能源浪费严重，且面临越来越严格的碳排放政策压力。",
+  "approach": "为园区搭建统一的智慧能源监控平台，对接各企业的电力、蒸汽、天然气等计量设备。部署AI能耗预测和异常检测模型，建立园区级碳排放核算体系。",
+  "results": [
+    { "metric": "综合能耗", "before": "高于行业均值15%", "after": "低于行业均值5%" },
+    { "metric": "年节能金额", "before": "-", "after": "3500万元" },
+    { "metric": "碳排放", "before": "基准年100%", "after": "同比减少22%" },
+    { "metric": "异常识别", "before": "人工巡查，滞后48h", "after": "AI实时告警，5分钟内" }
+  ],
+  "testimonial": "智联科技的能源管理平台让我们第一次真正'看见'了园区的能源全貌。异常能耗的及时发现每年为园区企业挽回数千万元损失。",
+  "gallery": ["/images/cases/chemical-1.jpg", "/images/cases/chemical-2.jpg"]
+}

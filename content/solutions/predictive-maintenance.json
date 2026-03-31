@@ -1,0 +1,38 @@
+{
+  "slug": "predictive-maintenance",
+  "title": "预测性维护解决方案",
+  "subtitle": "从被动维修到主动预防",
+  "coverImage": "/images/solutions/predictive-maintenance.jpg",
+  "icon": "maintenance",
+  "summary": "利用AI算法对设备运行数据进行深度分析，提前识别潜在故障风险，实现从传统的计划维修向智能预测性维护转变，大幅减少非计划停机和维护成本。",
+  "features": [
+    {
+      "title": "多维数据融合",
+      "description": "整合振动、温度、电流、声音等多维传感器数据，全方位感知设备健康状态",
+      "icon": "sensor"
+    },
+    {
+      "title": "故障预测模型",
+      "description": "自研深度学习模型，提前7-30天预测设备故障，预测准确率超过90%",
+      "icon": "brain"
+    },
+    {
+      "title": "智能维护排程",
+      "description": "根据故障预测结果和生产计划，自动生成最优维护方案，最小化对生产的影响",
+      "icon": "schedule"
+    },
+    {
+      "title": "设备健康画像",
+      "description": "为每台关键设备建立健康档案，实时评分，劣化趋势一目了然",
+      "icon": "heartbeat"
+    }
+  ],
+  "advantages": [
+    "非计划停机减少80%",
+    "维护成本降低30%",
+    "设备使用寿命延长20%",
+    "备件库存优化40%"
+  ],
+  "applicableScenes": ["大型旋转设备", "电机/泵/风机", "生产线关键设备", "基础设施", "电力设备"],
+  "relatedCases": ["case-003"]
+}
