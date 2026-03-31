@@ -5,7 +5,7 @@ import ContactForm from "@/components/ContactForm";
 
 export const metadata: Metadata = {
   title: "联系我们",
-  description: "联系智联科技，获取AI工业智能化解决方案咨询",
+  description: "联系九两科技，获取AI工业智能化解决方案咨询",
 };
 
 export default function ContactPage() {

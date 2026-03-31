@@ -5,7 +5,7 @@ import Timeline from "@/components/Timeline";
 
 export const metadata: Metadata = {
   title: "关于我们",
-  description: "了解智联科技——AI赋能工业智能化的高新技术企业",
+  description: "了解九两科技——AI赋能工业智能化的高新技术企业",
 };
 
 const advantageIcons: Record<string, React.ReactNode> = {

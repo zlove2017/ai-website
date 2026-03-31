@@ -14,6 +14,6 @@
     { "metric": "碳排放", "before": "基准年100%", "after": "同比减少22%" },
     { "metric": "异常识别", "before": "人工巡查，滞后48h", "after": "AI实时告警，5分钟内" }
   ],
-  "testimonial": "智联科技的能源管理平台让我们第一次真正'看见'了园区的能源全貌。异常能耗的及时发现每年为园区企业挽回数千万元损失。",
+  "testimonial": "九两科技的能源管理平台让我们第一次真正'看见'了园区的能源全貌。异常能耗的及时发现每年为园区企业挽回数千万元损失。",
   "gallery": ["/images/cases/chemical-1.svg", "/images/cases/chemical-2.svg"]
 }
