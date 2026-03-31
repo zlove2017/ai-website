@@ -2,7 +2,7 @@
   "slug": "energy-monitoring",
   "title": "智慧能源监控方案",
   "subtitle": "AI驱动的能源精细化管理",
-  "coverImage": "/images/solutions/energy-monitoring.jpg",
+  "coverImage": "/images/solutions/energy-monitoring.svg",
   "icon": "energy",
   "summary": "基于AI和IoT技术，构建企业级能源监控管理平台，实现对电力、水、气、热等能源的实时监测、智能分析和优化调控，助力企业实现节能降碳目标。",
   "features": [

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#0a1120"/>
+  <pattern id="g77" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00e5ff" opacity="0.05" stroke-width="0.5"/>
+  </pattern>
+  <rect width="800" height="500" fill="url(#g77)"/>
+  <line x1="77" y1="77" x2="377" y2="277" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="214" y1="166" x2="588" y2="450" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="351" y1="255" x2="799" y2="123" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="488" y1="344" x2="210" y2="296" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="625" y1="433" x2="421" y2="469" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="762" y1="22" x2="632" y2="142" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="99" y1="111" x2="43" y2="315" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="236" y1="200" x2="254" y2="488" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <circle cx="227" cy="177" r="3" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="478" cy="344" r="4" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="729" cy="111" r="5" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="280" cy="278" r="3" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="531" cy="445" r="4" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="82" cy="212" r="5" fill="#00e5ff" opacity="0.2"/>
+  <text x="400" y="250" text-anchor="middle" font-family="monospace" font-size="14" fill="#00e5ff" opacity="0.25">ENERGY MONITORING</text>
+</svg>

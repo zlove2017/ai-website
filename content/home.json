@@ -4,14 +4,14 @@
       "title": "AI驱动的工业智能化",
       "subtitle": "让每一台设备都拥有智慧大脑",
       "description": "融合AI与SCADA技术，为工业企业提供从数据采集到智能决策的全链路解决方案",
-      "image": "/images/hero/hero-1.jpg",
+      "image": "/images/hero/hero-1.svg",
       "cta": { "label": "了解解决方案", "href": "/solutions" }
     },
     {
       "title": "预测性维护 降本增效",
       "subtitle": "从被动维修到主动预防",
       "description": "基于深度学习的设备故障预测，减少80%非计划停机，降低30%运维成本",
-      "image": "/images/hero/hero-2.jpg",
+      "image": "/images/hero/hero-2.svg",
       "cta": { "label": "查看成功案例", "href": "/cases" }
     }
   ],
@@ -23,6 +23,19 @@
   ],
   "featuredSolutions": ["smart-factory", "energy-monitoring", "predictive-maintenance"],
   "featuredCases": ["case-001", "case-002", "case-003"],
+  "techStack": [
+    { "name": "AI算法引擎", "description": "自研深度学习框架，支持时序预测、异常检测、视觉质检" },
+    { "name": "SCADA数据中台", "description": "毫秒级数据采集，支持OPC-UA/Modbus/MQTT等工业协议" },
+    { "name": "边缘计算网关", "description": "端侧AI推理，断网不断联，本地实时决策" },
+    { "name": "数字孪生引擎", "description": "3D可视化建模，物理-数字实时映射，仿真推演" },
+    { "name": "工业IoT平台", "description": "百万级设备接入，统一设备管理与远程运维" },
+    { "name": "低代码配置台", "description": "拖拽式工业应用搭建，快速适配不同行业场景" }
+  ],
+  "partners": [
+    "宝武钢铁", "中国石化", "海螺水泥", "华润电力",
+    "中国建材", "万华化学", "国家电网", "比亚迪",
+    "三一重工", "徐工集团", "格力电器", "美的集团"
+  ],
   "ctaSection": {
     "title": "准备好开启工业智能化了吗？",
     "description": "我们的技术团队随时为您提供专业的解决方案咨询",

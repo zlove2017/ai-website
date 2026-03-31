@@ -97,6 +97,77 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Tech Stack */}
+      <section className="relative py-20 lg:py-28 bg-[var(--base)]">
+        <div className="absolute inset-0 bg-grid opacity-20" />
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="mb-14">
+            <div className="section-label mb-4">技术架构</div>
+            <h2
+              className="text-3xl lg:text-4xl font-bold text-[var(--text-primary)] mb-3"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
+              全栈<span className="text-[var(--cyan)]">技术能力</span>
+            </h2>
+            <p className="text-[var(--text-secondary)] max-w-xl">
+              自研核心技术栈，从边缘采集到云端分析的完整技术体系
+            </p>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+            {home.techStack.map((tech, i) => (
+                <div
+                  key={tech.name}
+                  className={`glow-card rounded-xl p-5 animate-in delay-${(i % 6) + 1}`}
+                >
+                  <div className="flex items-center gap-3 mb-3">
+                    <div className="w-2 h-2 rounded-full bg-[var(--cyan)] shadow-[0_0_6px_var(--cyan)]" />
+                    <h3
+                      className="font-semibold text-[var(--text-primary)] text-sm"
+                      style={{ fontFamily: "var(--font-display)" }}
+                    >
+                      {tech.name}
+                    </h3>
+                  </div>
+                  <p className="text-xs text-[var(--text-secondary)] leading-relaxed pl-5">
+                    {tech.description}
+                  </p>
+                </div>
+              ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Partners */}
+      <section className="py-16 lg:py-20 bg-[var(--base-raised)] border-y border-[var(--border)]">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <div className="section-label justify-center mb-4">合作伙伴</div>
+            <h2
+              className="text-2xl lg:text-3xl font-bold text-[var(--text-primary)]"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
+              他们选择了我们
+            </h2>
+          </div>
+          <div className="grid grid-cols-3 sm:grid-cols-4 lg:grid-cols-6 gap-4">
+            {home.partners.map((name) => (
+                  <div
+                    key={name}
+                    className="flex items-center justify-center h-20 rounded-xl bg-[var(--surface)] border border-[var(--border)] hover:border-[var(--cyan)]/20 transition-colors"
+                  >
+                    <span
+                      className="text-sm text-[var(--text-muted)] font-medium"
+                      style={{ fontFamily: "var(--font-display)" }}
+                    >
+                      {name}
+                    </span>
+                  </div>
+                )
+              )}
+          </div>
+        </div>
+      </section>
+
       {/* CTA */}
       <section className="relative py-24 lg:py-32 overflow-hidden">
         <div className="absolute inset-0 bg-grid opacity-40" />

@@ -34,6 +34,8 @@ export interface HomeData {
   stats: { value: string; label: string }[];
   featuredSolutions: string[];
   featuredCases: string[];
+  techStack: { name: string; description: string }[];
+  partners: string[];
   ctaSection: {
     title: string;
     description: string;

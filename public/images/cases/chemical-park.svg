@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#0a1120"/>
+  <pattern id="g250" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ff6b35" opacity="0.05" stroke-width="0.5"/>
+  </pattern>
+  <rect width="800" height="500" fill="url(#g250)"/>
+  <line x1="250" y1="250" x2="550" y2="450" stroke="#ff6b35" opacity="0.07" stroke-width="0.8"/>
+  <line x1="387" y1="339" x2="761" y2="123" stroke="#ff6b35" opacity="0.07" stroke-width="0.8"/>
+  <line x1="524" y1="428" x2="172" y2="296" stroke="#ff6b35" opacity="0.07" stroke-width="0.8"/>
+  <line x1="661" y1="17" x2="383" y2="469" stroke="#ff6b35" opacity="0.07" stroke-width="0.8"/>
+  <line x1="798" y1="106" x2="594" y2="142" stroke="#ff6b35" opacity="0.07" stroke-width="0.8"/>
+  <line x1="135" y1="195" x2="5" y2="315" stroke="#ff6b35" opacity="0.07" stroke-width="0.8"/>
+  <line x1="272" y1="284" x2="216" y2="488" stroke="#ff6b35" opacity="0.07" stroke-width="0.8"/>
+  <line x1="409" y1="373" x2="427" y2="161" stroke="#ff6b35" opacity="0.07" stroke-width="0.8"/>
+  <circle cx="400" cy="350" r="3" fill="#ff6b35" opacity="0.2"/>
+  <circle cx="651" cy="117" r="4" fill="#ff6b35" opacity="0.2"/>
+  <circle cx="202" cy="284" r="5" fill="#ff6b35" opacity="0.2"/>
+  <circle cx="453" cy="51" r="3" fill="#ff6b35" opacity="0.2"/>
+  <circle cx="704" cy="218" r="4" fill="#ff6b35" opacity="0.2"/>
+  <circle cx="255" cy="385" r="5" fill="#ff6b35" opacity="0.2"/>
+  <text x="400" y="250" text-anchor="middle" font-family="monospace" font-size="14" fill="#ff6b35" opacity="0.25">CHEMICAL // ENERGY</text>
+</svg>

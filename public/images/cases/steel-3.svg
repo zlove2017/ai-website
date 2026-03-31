@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#0a1120"/>
+  <pattern id="g330" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00e5ff" opacity="0.05" stroke-width="0.5"/>
+  </pattern>
+  <rect width="800" height="500" fill="url(#g330)"/>
+  <line x1="330" y1="330" x2="630" y2="30" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="467" y1="419" x2="41" y2="203" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="604" y1="8" x2="252" y2="376" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="741" y1="97" x2="463" y2="49" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="78" y1="186" x2="674" y2="222" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="215" y1="275" x2="85" y2="395" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="352" y1="364" x2="296" y2="68" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="489" y1="453" x2="507" y2="241" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <circle cx="480" cy="430" r="3" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="731" cy="197" r="4" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="282" cy="364" r="5" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="533" cy="131" r="3" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="84" cy="298" r="4" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="335" cy="65" r="5" fill="#00e5ff" opacity="0.2"/>
+  <text x="400" y="250" text-anchor="middle" font-family="monospace" font-size="14" fill="#00e5ff" opacity="0.25">DETAIL 03</text>
+</svg>

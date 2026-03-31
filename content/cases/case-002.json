@@ -1,7 +1,7 @@
 {
   "slug": "case-002",
   "title": "某化工园区智慧能源管理项目",
-  "coverImage": "/images/cases/chemical-park.jpg",
+  "coverImage": "/images/cases/chemical-park.svg",
   "industry": "化工",
   "client": "某国家级化工园区",
   "year": "2024",
@@ -15,5 +15,5 @@
     { "metric": "异常识别", "before": "人工巡查，滞后48h", "after": "AI实时告警，5分钟内" }
   ],
   "testimonial": "智联科技的能源管理平台让我们第一次真正'看见'了园区的能源全貌。异常能耗的及时发现每年为园区企业挽回数千万元损失。",
-  "gallery": ["/images/cases/chemical-1.jpg", "/images/cases/chemical-2.jpg"]
+  "gallery": ["/images/cases/chemical-1.svg", "/images/cases/chemical-2.svg"]
 }

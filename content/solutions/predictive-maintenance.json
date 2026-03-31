@@ -2,7 +2,7 @@
   "slug": "predictive-maintenance",
   "title": "预测性维护解决方案",
   "subtitle": "从被动维修到主动预防",
-  "coverImage": "/images/solutions/predictive-maintenance.jpg",
+  "coverImage": "/images/solutions/predictive-maintenance.svg",
   "icon": "maintenance",
   "summary": "利用AI算法对设备运行数据进行深度分析，提前识别潜在故障风险，实现从传统的计划维修向智能预测性维护转变，大幅减少非计划停机和维护成本。",
   "features": [

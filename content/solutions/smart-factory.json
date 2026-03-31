@@ -2,7 +2,7 @@
   "slug": "smart-factory",
   "title": "智慧工厂解决方案",
   "subtitle": "AI驱动的全流程智能制造",
-  "coverImage": "/images/solutions/smart-factory.jpg",
+  "coverImage": "/images/solutions/smart-factory.svg",
   "icon": "factory",
   "summary": "通过AI+SCADA技术，实现生产全流程的智能监控、数据分析和自动优化。从原料入库到成品出库，每一个环节都在AI的智能管控下高效运转。",
   "features": [

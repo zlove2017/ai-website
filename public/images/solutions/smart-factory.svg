@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#0a1120"/>
+  <pattern id="g42" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00e5ff" opacity="0.05" stroke-width="0.5"/>
+  </pattern>
+  <rect width="800" height="500" fill="url(#g42)"/>
+  <line x1="42" y1="42" x2="342" y2="242" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="179" y1="131" x2="553" y2="415" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="316" y1="220" x2="764" y2="88" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="453" y1="309" x2="175" y2="261" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="590" y1="398" x2="386" y2="434" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="727" y1="487" x2="597" y2="107" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="64" y1="76" x2="8" y2="280" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <line x1="201" y1="165" x2="219" y2="453" stroke="#00e5ff" opacity="0.07" stroke-width="0.8"/>
+  <circle cx="192" cy="142" r="3" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="443" cy="309" r="4" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="694" cy="76" r="5" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="245" cy="243" r="3" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="496" cy="410" r="4" fill="#00e5ff" opacity="0.2"/>
+  <circle cx="747" cy="177" r="5" fill="#00e5ff" opacity="0.2"/>
+  <text x="400" y="250" text-anchor="middle" font-family="monospace" font-size="14" fill="#00e5ff" opacity="0.25">SMART FACTORY</text>
+</svg>

@@ -1,7 +1,7 @@
 {
   "slug": "case-001",
   "title": "某钢铁集团智慧工厂项目",
-  "coverImage": "/images/cases/steel-factory.jpg",
+  "coverImage": "/images/cases/steel-factory.svg",
   "industry": "钢铁制造",
   "client": "某大型钢铁集团",
   "year": "2024",
@@ -15,5 +15,5 @@
     { "metric": "年节省成本", "before": "-", "after": "1200万元" }
   ],
   "testimonial": "智联科技的智慧工厂方案帮助我们实现了真正的数字化转型，生产效率提升显著，非计划停机大幅减少，经济效益远超预期。",
-  "gallery": ["/images/cases/steel-1.jpg", "/images/cases/steel-2.jpg", "/images/cases/steel-3.jpg"]
+  "gallery": ["/images/cases/steel-1.svg", "/images/cases/steel-2.svg", "/images/cases/steel-3.svg"]
 }

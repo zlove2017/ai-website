@@ -1,7 +1,7 @@
 {
   "slug": "case-003",
   "title": "某水泥集团设备预测性维护项目",
-  "coverImage": "/images/cases/cement-plant.jpg",
+  "coverImage": "/images/cases/cement-plant.svg",
   "industry": "建材",
   "client": "某水泥上市企业",
   "year": "2025",
@@ -15,5 +15,5 @@
     { "metric": "备件库存", "before": "基准100%", "after": "降低35%" }
   ],
   "testimonial": "以前我们总是在'救火'，现在有了智联的预测性维护系统，我们能提前安排维护计划，生产稳定性有了质的飞跃。",
-  "gallery": ["/images/cases/cement-1.jpg", "/images/cases/cement-2.jpg"]
+  "gallery": ["/images/cases/cement-1.svg", "/images/cases/cement-2.svg"]
 }
