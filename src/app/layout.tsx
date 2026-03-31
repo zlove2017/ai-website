@@ -3,6 +3,7 @@ import { Chakra_Petch, Manrope, JetBrains_Mono } from "next/font/google";
 import { getSiteConfig } from "@/lib/content";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import ParticleTrail from "@/components/ParticleTrail";
 import "./globals.css";
 
 const chakra = Chakra_Petch({
@@ -46,6 +47,7 @@ export default function RootLayout({
       className={`${chakra.variable} ${manrope.variable} ${jetbrains.variable}`}
     >
       <body className="min-h-screen flex flex-col">
+        <ParticleTrail />
         <Header
           companyName={site.companyName}
           nav={site.nav}
